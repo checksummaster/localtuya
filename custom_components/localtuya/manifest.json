@@ -2,6 +2,7 @@
   "domain": "localtuya",
   "name": "LocalTuya integration",
   "documentation": "https://github.com/rospogrigio/localtuya/",
+  "version": "3.2.3",
   "dependencies": [],
   "codeowners": [
     "@rospogrigio", "@postlund"
